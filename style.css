@@ -1,0 +1,155 @@
+#section1{ margin-left: 10%;
+    margin-right:10%;
+    display: flex;
+    justify-content:center;
+    flex-direction:column ;
+    align-items: center;
+
+}
+header { display: flex;
+    justify-content: space-between;
+
+    width:100%;
+    
+}
+header a{ text-decoration: none;
+    color:  #ababab ;
+    padding: 0 0.6em
+   
+
+}
+header a:hover{
+    color: #00b39b
+}
+.log{
+    width: 300px;
+}
+.img1{ margin-left: auto;
+    margin-right: auto;
+   
+}
+ h1{
+    color:#00b39b ;
+    margin-left: auto;
+    margin-right: auto;
+ }
+.pra{  
+    display: flex;
+    float: left;
+    min-height: 1px;
+    padding: 10px; 
+}
+.section2{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:10%;
+    margin-right:10% ;
+
+
+    
+}
+.serves{
+   width: 300px;
+    background-color: #00b39b;
+    
+    border:1px solid rgba(128,128,128, 0.288) ;
+    border-radius: 10px;
+    margin: 20px;
+  
+}
+
+.serves2{
+    width: 300px;
+     background-color: #4d45f4;
+     
+     border:1px solid rgba(128,128,128, 0.288) ;
+     border-radius: 10px;
+     margin: 20px;
+
+}
+.serves3{
+    width: 300px;
+     background-color: #30303a;
+     
+     border:1px solid rgba(128,128,128, 0.288) ;
+     border-radius: 10px;
+     margin: 20px;
+
+}
+h2{color: #f9f8f8; 
+    margin-left:10% ;
+    margin-top: 10%;
+
+}
+h3{color: #f9f8f8; 
+    margin-left:5% ;
+    margin-right: 5%;
+    margin-top:5%;
+   padding: 50px; 
+    }
+
+#icon{margin-left:10% ;
+margin-top: 10%;}
+
+.section3{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:10%;
+    margin-right:10% ;
+
+}
+.country{
+    width: 300px;
+    border:1px solid rgba(128,128,128, 0.288) ;
+    border-radius: 10px;
+    margin: 20px;
+}
+.country:hover{box-shadow: 1px 1px 20px 10px rgba(124, 118, 118, 0.288);}
+.country img{ width: 300px;}
+.button button{background-color: #5310db;
+    height:30px ;
+    color: aliceblue;
+    margin-bottom:10px ;
+
+}
+h6{margin: 2px;}
+
+.button{
+    display:flex ;
+    justify-content: space-around;
+}
+.section4{
+    display: flex;
+    margin-left:20%;
+    margin-right:20% ;
+}
+ul{
+    padding: 10px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;}
+    
+
+li{
+    border:1px  ;
+    margin: 10px;
+   
+}
+#s4{
+    color: #00b39b;
+}
+.section5{
+    display: flex;
+    
+    background-color: #d5efebf8;
+    margin-top: auto;
+}
+
+.cl5{
+    margin-left: 20%;
+}
+.cla5{background-color: rgb(253, 253, 253);
+   width:100px;
+
+}
